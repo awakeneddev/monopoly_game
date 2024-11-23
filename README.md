@@ -1,0 +1,1 @@
+### A decentralized blockchain-based version of the classic Monopoly game, where users can collect and claim prizes by owning NFTs. Players can buy game pieces (NFTs), check eligibility for prizes, and claim rewards directly through the smart contract. Built using Ethereum and Solidity for fair and transparent gameplay.
